@@ -3,7 +3,7 @@ var Plume = Plume || {};
 
 // Init some default config values
 Plume.config = {
-    owner: '',
+    owner: 'http://rhiaro.co.uk/about#me',
     title: "My awesome blog",
     tagline: "Light as a feather",
     picture: "img/logo-white.svg",
